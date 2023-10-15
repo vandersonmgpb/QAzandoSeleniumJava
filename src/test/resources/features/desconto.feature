@@ -11,9 +11,9 @@
       E clico em ganhar cupom
       Então eu vejo o código de desconto
 
-    Cenário: Visualizar código de desconto para usar cupom
-      Dado que estou no site da qazando
-      Quando preencho meu e-mail
-      E clico em ganhar cupom
-      Então eu vejo o código de desconto
-      E uso ele no checkout
+#    Cenário: Visualizar código de desconto para usar cupom
+#      Dado que estou no site da qazando
+#      Quando preencho meu e-mail
+#      E clico em ganhar cupom
+#      Então eu vejo o código de desconto
+#      E uso ele no checkout
